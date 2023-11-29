@@ -17,4 +17,4 @@ These macros enable extending Swift by creating and extending declarations based
 [https://developer.apple.com/videos/play/wwdc2023-10166](https://developer.apple.com/videos/play/wwdc2023-10166)<br>
 
 ## Answers to common questions
-Observation is only con
+Observation is only compatible with iOS 17 and above. Macros are compatible with Swift 5.9 and later.
